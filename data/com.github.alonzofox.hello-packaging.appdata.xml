@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2017 Dave Brue <davidbrue@gmail.com> -->
+<component type="desktop">
+    <id>com.github.alonofox.hello-packaging.desktop</id>
+    <metadata_license>CC0</metadata_license>
+    <name>Hello Packaging</name>
+    <summary>Hello packaging tagline</summary>
+    <description>
+        <p>An app to say hello, packaged</p>
+    </description>
+</component>
